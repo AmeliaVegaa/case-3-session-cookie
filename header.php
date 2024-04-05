@@ -16,8 +16,8 @@
                             </div>
                         </a>
                         <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="/PWTI/case3f/profile.php">Profile</a></li>
-                            <li><a class="dropdown-item" href="/PWTI/case3f/logout.php">Logout</a></li>
+                            <li><a class="dropdown-item" href="/PWTI/case3final/profile.php">Profile</a></li>
+                            <li><a class="dropdown-item" href="/PWTI/case3final/logout.php">Logout</a></li>
                         </ul>
                     </li>
                 </ul>
